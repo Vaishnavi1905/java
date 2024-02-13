@@ -1,0 +1,17 @@
+class RangeOfNatNo
+{
+public static void main(String[] args)
+{
+int range1=10;
+int range2=100;
+int sum=range2*(range2+1)/2-range1*(range1+1)/2;
+System.out.println("The sum of natural numbers between given range:"+sum);
+
+}
+}
+
+
+//
+Output:
+Compile time=success
+Run time=success=The sum of natural numbers between given range:4995
