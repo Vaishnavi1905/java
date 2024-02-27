@@ -11,7 +11,9 @@ System.out.println("The sum of natural numbers between given range:"+sum);
 }
 
 
-//
+/*
 Output:
-Compile time=success
-Run time=success=The sum of natural numbers between given range:4995
+1.Compile time:success
+2.Run time:success
+The sum of natural numbers between given range:4995
+*/
