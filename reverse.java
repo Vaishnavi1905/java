@@ -14,3 +14,10 @@ class reverse {
     }
     
 }
+
+/*
+Output:
+1.Compile Time:Success
+2.Runtime:Success
+5432
+*/
